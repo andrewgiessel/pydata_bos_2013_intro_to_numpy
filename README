@@ -1,0 +1,4 @@
+This is a repository holding the tutorial IPython notebook for my talk at PyData Boston, 2013.  
+
+You should be able to run this notebook by starting the IPython notebook server in this directory with the following command:  `ipython notebook pylab==inline`
+
