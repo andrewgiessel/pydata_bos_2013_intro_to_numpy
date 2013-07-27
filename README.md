@@ -5,7 +5,9 @@ This is a repository holding the tutorial IPython notebook for my talk at PyData
 
 After cloning this repo, you should be able to run this notebook by starting the IPython notebook server in the repo directory with the following command:  `ipython notebook --pylab inline`
 
-You can view the main notebook [here](http://nbviewer.ipython.org/urls/raw.github.com/andrewgiessel/pydata_bos_2013_intro_to_numpy/master/Introduction%2520To%2520NumPy.ipynb).
+You can view a static version of the main notebook [here](http://nbviewer.ipython.org/urls/raw.github.com/andrewgiessel/pydata_bos_2013_intro_to_numpy/master/Introduction%2520To%2520NumPy.ipynb).
+
+You can run and edit the notebook using just your web browser using Wakari [here](https://www.wakari.io/nb/urls/raw.github.com/andrewgiessel/pydata_bos_2013_intro_to_numpy/master/Introduction%2520To%2520NumPy.ipynb).
 
 Requirements
 ------------
