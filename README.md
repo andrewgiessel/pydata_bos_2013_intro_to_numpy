@@ -10,7 +10,7 @@ You can view the main notebook [here](http://nbviewer.ipython.org/urls/raw.githu
 Requirements
 ------------
 
-Python 2.7
-IPython >= 0.13 (to run the notebook)
-NumPy >= 1.6.1
-Matplotlib >= 1.0 (for some plotting in the notebook)
+* Python 2.7
+* IPython >= 0.13 (to run the notebook)
+* NumPy >= 1.6.1
+* Matplotlib >= 1.0 (for some plotting in the notebook)
